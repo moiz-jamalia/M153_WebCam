@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webCamExample_Moiz_Jamalia.props" />
+</Project>
